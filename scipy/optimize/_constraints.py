@@ -135,7 +135,7 @@ class LinearConstraint:
     (n,) and the matrix A has shape (m, n).
 
     It is possible to use equal bounds to represent an equality constraint or
-    infinite bounds to represent a one-sided constraint.
+    and infinite bounds to represent a one-sided constraint.
 
     Parameters
     ----------
